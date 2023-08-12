@@ -9,11 +9,12 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Peace | Software Developer</title>
+        <title>Peace | Full Stack Software Engineer</title>
         <meta name="description" content="I'm a Full Stack Developer specializing in building (and occasionally designing) exceptional digital experiences." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      
       <Main />
       <About />
       <Skills />
